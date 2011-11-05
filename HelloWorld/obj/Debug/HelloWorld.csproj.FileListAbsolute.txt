@@ -1,0 +1,5 @@
+C:\Dev\VS\Interview\LinkedIn\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Dev\VS\Interview\LinkedIn\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Dev\VS\Interview\LinkedIn\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\VS\Interview\LinkedIn\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Dev\VS\Interview\LinkedIn\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
